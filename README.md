@@ -1,8 +1,6 @@
 # Steam-Market-Scraper
 A Parser for the Steam Community Market, which extracts the minimum price of a product in different currencies based on its name and additional parameters.
 
-more information about my project will be available soon
-
 ## Functionality
 
 - Parses the minimum price of an item in different currencies by its name and additional parameters.

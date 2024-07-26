@@ -1,4 +1,4 @@
-# Steam-Market-Scraper
+# Steam-CS2-Market-Scraper
 A Parser for the Steam Community Market, which extracts the minimum price of a product in different currencies based on its name and additional parameters.
 
 ## Functionality

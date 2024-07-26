@@ -50,7 +50,7 @@ A Parser for the Steam Community Market, which extracts the minimum price of a p
 
 ## Contact Information
 
-- pass
+- tg: @randomprogrammer
 
 
 
